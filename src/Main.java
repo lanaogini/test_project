@@ -3,6 +3,6 @@ public class Main {
 
         System.out.println("Hallo world!");
         int i = 5;
-        System.out.println("Hallo Test Projekt");
+        System.out.println("Hallo Test Project");
     }
 }
